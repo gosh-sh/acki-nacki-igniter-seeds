@@ -1,2 +1,2 @@
-# acki-nacki-testnet-iginter-seeds
+# acki-nacki-testnet-igniter-seeds
 Initial list of testnet gossip seed nodes
